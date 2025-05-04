@@ -1,0 +1,14 @@
+cbindgen
+clang
+go
+imake
+lld
+nasm
+pnpm
+rsync
+rust
+unzip
+wasi-libc++
+xorg-server-xvfb
+yasm
+zip

@@ -1,0 +1,16 @@
+[user]
+	email = 108818570+karlromets@users.noreply.github.com
+	name = Karl Romet Somelar
+	signingkey = /home/karlromets/.ssh/id_ed25519
+[credential]
+	helper = store
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = false
+[core]
+	excludesfile = /home/karlromets/.gitignore_global
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true

@@ -102,7 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
+source $HOME/.zprofile
 
 alias gupt='git fetch --all --tags --prune'
 alias gs='git status'

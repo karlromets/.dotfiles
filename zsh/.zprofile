@@ -21,3 +21,5 @@ export NVM_DIR="$HOME/.nvm"
 if [ -f ~/.zsh_profile_env ]; then
     source ~/.zsh_profile_env
 fi
+
+export TERMINAL=ghostty

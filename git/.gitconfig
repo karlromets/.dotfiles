@@ -6,6 +6,7 @@
 	helper = store
 [push]
 	autoSetupRemote = true
+	recurseSubmodules = on-demand
 [pull]
 	rebase = false
 [core]
@@ -14,3 +15,5 @@
 	format = ssh
 [commit]
 	gpgsign = true
+[submodule]
+	recurse = true
